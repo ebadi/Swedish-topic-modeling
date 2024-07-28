@@ -1,0 +1,9 @@
+*.txt
+*.csv
+__pycache__/
+.trunk/
+*.xlsx
+*.pickle
+.ipynb_checkpoints/
+nlp/
+__pycache__
